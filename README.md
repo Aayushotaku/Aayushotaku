@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java, Data Structures & Algorithms, and diving into 3D animation tools  
 - 💞️ I’m looking to collaborate on creative and tech-based projects, especially involving animation or cool website ideas  
 - 📫 How to reach me:Email-aayushbajracharya65@gmail.com  
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m an anime lover who’s trying to blend tech with animation and creativity — whether it's animating scenes or building something fun on the web!
 
 <!---
